@@ -1,8 +1,9 @@
 Tech Stack
-	Spring Boot.
 
-	H2 - in memory Database.
+  	Spring Boot.
 
-	Spring Data JPA - uses Hibernate as JPA implementation.
+  	H2 - in memory Database.
 
-	Database - MYSQL
+  	Spring Data JPA - uses Hibernate as JPA implementation.
+
+  	Database - MYSQL
